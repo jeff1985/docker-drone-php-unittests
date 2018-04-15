@@ -31,6 +31,7 @@ php7.1-zip php7.1-bz2 php7.1-mbstring php7.1-xsl php7.1-gd php7.1-sockets \
 php7.1-ldap php7.1-gettext php7.1-simplexml php7.1-soap php7.1-xml \
 git \
 memcached php-memcached \
+netcat-openbsd \
 build-essential python-pip tar unzip  \
 aha \
 nodejs psmisc php7.1-gd php7.1-memcache lsof iputils-ping php7.1-mongodb php7.1-zip \
